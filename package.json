@@ -1,13 +1,13 @@
 {
   "name": "evoldialauncher",
-  "version": "2.0.6",
+  "version": "2.0.4",
   "productName": "Evoldia Network Launcher",
   "description": "Launcher Minecraft Moddée",
-  "author": "Modifié par Seinzen",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) & Modifié par Seinzen",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Seinzen777/Evoldia-Launcher",
+  "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/Seinzen777/Evoldia-Launcher/issues"
+    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seinzen777/Evoldia-Launcher.git"
+    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
   }
 }
